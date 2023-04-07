@@ -1,0 +1,13 @@
+#image{
+    border: 2px solid yellow;
+    padding: 2px;
+    border-radius: 20px;
+}
+img:hover{
+    box-shadow:0 0 2px 1px yellow;
+}
+body{
+    color: yellow;
+    background-color: black;
+    text-transform:capitalize;
+}
